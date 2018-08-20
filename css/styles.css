@@ -1,4 +1,4 @@
-/* @import url(https://fonts.googleapis.com/css?family=Merriweather|Merriweather+Sans); TODO: not recommended*/
+/* @import url(https://fonts.googleapis.com/css?family=Merriweather|Merriweather+Sans); not recommended*/
 
      html, body {
        margin: 0;
@@ -94,16 +94,12 @@
      }
 
      .hero-box {
-       /* height: 25%;
-       background-image: url(../img/chii-800.png) no-repeat;
-       background-size: cover; */
-       /* TODO: find out why background-image is not working */
+/* TODO: find out why background-image is not working */
        color: #efefef;
      }
 
      .main-img {
        display: block;
-       /* width:; */
        margin: auto;
      }
 
@@ -151,9 +147,9 @@
      }
 
 /*
+*
 * responsive
 *
-*TODO: hide the hero-image in two smaller viewports (find out why display: none not working)
 */
 
      @media screen and (max-width: 450px) {
@@ -167,26 +163,3 @@
        }
 
      }
-
-
-     /* @media screen and (min-width: 451px) {
-
-       .article-img {
-         padding: 5px;
-       }
-
-     }
-
-
-     @media screen and (min-width: 700px) {
-       .figure-flexbox {
-         display: flex;
-         justify-content: space-around;
-         flex-flow: row wrap;
-       }
-
-       .featured-box {
-       width: 600px;
-      }
-
-     } */
