@@ -8,15 +8,16 @@ Following the project requirements rubric and the project's design mockup, I cre
 To achieve responsivity, I used flexbox and media queries.
 
 
-_[Visit the live version of the project](https://ewastasiak.github.io/fend-portfolio-page/)_
+***[Visit the live version of my project](https://ewastasiak.github.io/fend-portfolio-page/)***
 
 _The initial mockup screenshot:_
 
 ![project mockup][mockup]
 
-# About Udacity and Google Scholarship
+# About Udacity and Google Scholarships
 
 [Udacity blog entry announcing Google Developer Challenge 2017/2018](https://blog.udacity.com/2017/09/announcing-60000-challenge-scholarships-udacity-google.html)
+
 [Information on all Google Scholarship tracks](https://www.udacity.com/google-scholarships)
 
-**[Visit Udacity Scholarships page](https://www.udacity.com/scholarships)**
+**[Visit Udacity scholarships page](https://www.udacity.com/scholarships)**
