@@ -82,6 +82,8 @@
 	padding: 5px;
     background-color: white;
     color: #7d97ad;
+	font-size: 0.9em;
+	line-height: 130%;
     align-items: center;
 	justify-content: center;
 }
@@ -171,11 +173,17 @@
 *
 */
 
-     @media screen and (max-width: 450px) {
+     @media screen and (max-width: 500px) {
 
         main {
         width: 100%;
         }
+		
+		footer {
+		font-size: 0.6em;
+		color: black;
+		line-height: 160%;
+		}
 
        .container {
          width: 100%;
